@@ -4,28 +4,20 @@
 </div>
 <img src="">
 
-[![GitHub followers](https://img.shields.io/github/followers/stebp27?style=social)](https://github.com/stebp27)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--gray?style=social&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/stefano-beltrami)
 [![Portfolio](https://img.shields.io/badge/Portfolio--gray?style=social&logo=notion)](https://app.notion.com/p/Stefano-Beltrami-Portfolio-32ca352d51168000b94beedbdf515226)
-<a href="https://github.com/stebp27">
-		<img src="https://komarev.com/ghpvc/?username=stebp27&label=Profile%20views&color=0e75b6&style=flat" alt="stebp" />
-</a>
+[![GitHub followers](https://img.shields.io/github/followers/stebp27?style=social)](https://github.com/stebp27)
 
 ## About Me
-
-
-## Stack
-### Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Framework, Libraries & Platforms
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Learning
-
+```js
+const dev = {
+  name: "Stefano Beltrami",
+  role: "Front-End Developer",
+  code: ["JavaScript (ES6+)", "React", "Vue.js", "HTML5/CSS3"],
+  builds: "Interactive & accessible web interfaces",
+  motto: "Turning complex problems into clean, functional UI."
+};
+```
 
 <img align="left" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 
@@ -36,16 +28,16 @@
 </br>
 </br>
 
-## Some of my hard work
+## My last work
 
 <div align="center">
   <table>
     <tr>
       <td width="100%" align="center">
-        <h3 align="center">My last project: nextstop</h3>
+        <h3 align="center">nextstop</h3>
         <a href="https://github.com/stebp27/next-stop-frontend" target="_blank">
           <img 
-            src="" 
+            src="https://i.imgur.com/sTHtEJv.gif" 
             width="400" 
             alt="nextstop"
           >
@@ -64,6 +56,7 @@
 </div>
 <br>
 
+<!--
 <table>
 <tr>
 <td width="50%">
@@ -97,6 +90,7 @@
 </table>                                                                                 
 </div>
 <br>
+-->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
